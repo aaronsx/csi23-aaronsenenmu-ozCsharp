@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csi23-aaronsenenmuñozCsharp", "csi23-aaronsenenmuñozCsharp\csi23-aaronsenenmuñozCsharp.csproj", "{6C533639-865A-449D-99A0-59F8E9C92740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A4F6E098-2F62-4331-A3B3-8DA29B6118B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C533639-865A-449D-99A0-59F8E9C92740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C533639-865A-449D-99A0-59F8E9C92740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C533639-865A-449D-99A0-59F8E9C92740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C533639-865A-449D-99A0-59F8E9C92740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F6E098-2F62-4331-A3B3-8DA29B6118B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F6E098-2F62-4331-A3B3-8DA29B6118B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F6E098-2F62-4331-A3B3-8DA29B6118B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F6E098-2F62-4331-A3B3-8DA29B6118B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA62655B-2E54-49F8-8831-0E60CD2D77BF}
+	EndGlobalSection
+EndGlobal
